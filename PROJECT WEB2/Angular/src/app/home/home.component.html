@@ -1,0 +1,19 @@
+<nav class="navbar navbar-dark bg-dark">
+  <a class="navbar-brand text-white"></a>
+
+    <a class="nav-link text-white" [routerLink]="['/ud']">MY PROFIL</a>
+
+    <a   *ngIf="user.type === 'POTROSAC'  || user.type === 'DOSTAVLJAC' " class="nav-link text-white" [routerLink]="['/order']">NEW ORDER</a>
+
+    <a  *ngIf="user.type === 'ADMINISTRATOR'" class="nav-link text-white" [routerLink]="['/product']">ADD PRODUCT</a>
+
+    <a   *ngIf="user.type === 'ADMINISTRATOR'  " class="nav-link text-white" [routerLink]="['/order']">ALL ORDER</a>
+
+
+  <button class="btn btn-danger my-2 my-sm-0" (click)="onLogout()">Logout</button>
+</nav>
+
+<p style="background-image: url('C:\Users\BOZO\Desktop\web2\PROJECT\Angular7\src\assets\img\add_user');"></p>
+
+
+

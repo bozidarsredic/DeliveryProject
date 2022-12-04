@@ -1,0 +1,57 @@
+
+
+
+
+<section class="vh-100 bg-image">
+  <div    class="mask d-flex align-items-center h-100 gradient-custom-3">
+    <div    class="container h-100">
+      <div   class="row d-flex justify-content-center align-items-center h-100">
+        <div   class="col-12 col-md-9 col-lg-7 col-xl-6">
+          <div    class="card" style="border-radius: 15px;"   >
+             <div     class="card-body p-5">  <!-- style="background-color:red"   -->
+              <h2   class="text-uppercase text-center mb-5">ADD PRODUCT</h2>
+
+              <form [formGroup]="productForm" class="mb-4" autocomplete="off">
+                <div class="form-group">
+                  <label>Name</label>
+                  <input  class="form-control" formControlName="Name" >
+                </div>
+                          <div *ngIf="productForm.controls.Name.invalid">
+                            <p style="color:red;" >Email is required </p>
+
+                          </div>
+
+                <div class="form-group">
+                  <label>Price</label>
+                  <input type="text" class="form-control"  formControlName="Price">
+                </div>
+                <div *ngIf="productForm.controls.Price.invalid">
+                  <p style="color:red;" >Price  is required </p>
+               </div>
+
+               <div class="form-group">
+                <label>Ingredients</label>
+                <input type="text" class="form-control"  formControlName="Ingredients">
+              </div>
+              <div *ngIf="productForm.controls.Ingredients.invalid">
+                <p style="color:red;" >Ingredients  are  required </p>
+             </div>
+
+
+                <div class="d-flex justify-content-center">
+                  <button type="button" [disabled]="!productForm.valid"
+                     class="btn btn-success btn-block btn-lg gradient-custom-4 text-body  " (click)=onSubmit() >ADD</button>
+                </div>
+
+
+
+
+              </form>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

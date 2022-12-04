@@ -1,0 +1,168 @@
+<nav class="navbar navbar-dark bg-dark">
+  <a class="navbar-brand text-white"></a>
+
+    <a class="nav-link text-white" [routerLink]="['/ud']">MY PROFIL</a>
+
+    <a   *ngIf="user.type === 'POTROSAC'  || user.type === 'DOSTAVLJAC' " class="nav-link text-white" [routerLink]="['/order']">NEW ORDER</a>
+
+
+    <a  *ngIf="user.type === 'ADMINISTRATOR'" class="nav-link text-white" [routerLink]="['/product']">ADD PRODUCT</a>
+
+    <a   *ngIf="user.type === 'ADMINISTRATOR'  " class="nav-link text-white" [routerLink]="['/order']">ALL ORDER</a>
+
+
+
+  <button class="btn btn-danger my-2 my-sm-0" (click)="onLogout()">Logout</button>
+</nav>
+ <p style="background-image: url('../../../assets/img/add_user.png');">
+
+
+</p>
+
+
+
+
+
+<section class="vh-100 bg-image">
+  <div   class="mask d-flex align-items-center h-100 gradient-custom-3">
+    <div class="container h-100">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+          <div class="card" style="border-radius: 15px;"   style="background-color: rgb(207, 204, 204)">
+            <div class="card-body p-5">
+
+
+
+<table  style="width:100%"  class="table table-striped" >
+
+  <!-- class="table table-striped table-dark" -->
+
+
+  <tbody >
+
+
+
+
+    <tr   *ngIf="user.type === 'POTROSAC' && user.validationDeliverers === false">
+
+      <td>Become Deliverer</td>
+
+      <td> <input type="button" value="become" class="btn btn-primary"  (click)="become()"></td>
+
+
+    </tr>
+    <tr   *ngIf="user.type === 'POTROSAC' && user.validationDeliverers === true && user.idDeliverer === false ">
+
+      <td>Waiting for verification</td>
+
+
+
+
+    </tr>
+
+    <tr>
+
+      <td>Username</td>
+
+      <td><input  style="width:100%" type="text" value={{user.username}} (keyup)="changeUsername($event)" > </td>
+
+
+    </tr>
+    <tr>
+      <td>Email</td>
+      <td>{{user.email}}</td>
+
+    </tr>
+
+    <tr>
+      <td>Name and Lastname</td>
+
+      <td><input  style="width:100%" type="text" value={{user.nameAndLastName}} (keyup)="changeNameAndLastName($event)" > </td>
+    </tr>
+    <tr>
+      <td>Date of births</td>
+
+      <td><input  style="width:100%" type="text" value={{user.dateOfBirth}} (keyup)="changeDateOfBirth($event)" > </td>
+    </tr>
+    <tr>
+      <td>Address</td>
+
+      <td><input  style="width:100%" type="text" value={{user.address}} (keyup)="changeAddress($event)" > </td>
+    </tr>
+    <tr>
+      <td> New Password</td>
+
+      <td><input  style="width:100%" type="password" value="" (keyup)="changePassword($event)" > </td>
+    </tr>
+
+
+    <img class="img-account-profile rounded-circle mb-2" style="width:150px ; height: 150px;" src='{{"../../../assets/img/"+user.image}}' alt="noImage">
+    <!-- <img class="img-account-profile rounded-circle mb-2" src='{{"../../../assets/images/" + getImageName(userData.image)}}' alt="noImage"> -->
+    <!-- <td><input  style="width:100%" type="text" value={{user.image}} (keyup)="changeAddress($event)" > </td> -->
+<!--
+     <form [formGroup]="registrationForm">
+
+      <input type="file" class="form-control" id="customFile" formControlName="Image"  />
+    </form> -->
+    <input type="file" class="form-control" id="customFile"  />
+
+    <!-- <tr>
+
+
+      <td><input  style="width:100%"  type="file" (keyup)="changeImage($event)" > </td>
+    </tr> -->
+
+    <tr>
+
+      <input type="button" value="save info" class="btn btn-primary"  (click)="save()">
+    </tr>
+  </tbody>
+
+
+</table>
+
+<h2  *ngIf="user.type === 'ADMINISTRATOR'"> Verification list</h2>
+<table class="table table-hover"  style="width:25%"  *ngIf="user.type === 'ADMINISTRATOR'">
+
+ <tbody>
+
+  <tr  >
+    <td >EMAIL</td>
+
+
+  </tr>
+
+    <tr *ngFor="let product of users" >
+
+      <td  *ngIf="product.validationDeliverers === true  && product.idDeliverer === false  "  >{{product.email}}</td>
+      <input   *ngIf="product.validationDeliverers === true   && product.idDeliverer === false " type="button" value="approve" class="btn btn-primary"  (click)="approve(product.email)">
+
+    </tr>
+
+    <h2  > Delivevers</h2>
+
+    <tr *ngFor="let product of users" >
+
+     <td   *ngIf="product.type === 'DOSTAVLJAC' " >Deliverer</td>
+      <td  *ngIf="product.type === 'DOSTAVLJAC' "  >{{product.email}}</td>
+
+
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+

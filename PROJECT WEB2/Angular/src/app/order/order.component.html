@@ -1,0 +1,202 @@
+<nav class="navbar navbar-dark bg-dark">
+  <a class="navbar-brand text-white"></a>
+
+    <a class="nav-link text-white" [routerLink]="['/ud']">MY PROFIL</a>
+
+    <a   *ngIf="user.type === 'POTROSAC'  || user.type === 'DOSTAVLJAC' " class="nav-link text-white" [routerLink]="['/order']">NEW ORDER</a>
+
+
+    <a  *ngIf="user.type === 'ADMINISTRATOR'" class="nav-link text-white" [routerLink]="['/product']">ADD PRODUCT</a>
+
+    <a   *ngIf="user.type === 'ADMINISTRATOR'  " class="nav-link text-white" [routerLink]="['/order']">ALL ORDER</a>
+
+
+
+  <button class="btn btn-danger my-2 my-sm-0" (click)="onLogout()">Logout</button>
+</nav>
+
+
+<section class="vh-100 bg-image"  *ngIf="user.type === 'POTROSAC' "  >
+  <div   class="mask d-flex align-items-center h-100 gradient-custom-3">
+    <div class="container h-100">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-12 col-md-9 col-lg-7 col-xl-6"  >
+          <div class="card" style="border-radius: 15px;"   style="background-color: rgb(207, 204, 204)">
+            <div class="card-body p-5">
+              <h2 class="text-uppercase text-center mb-5">NEW ORDER</h2>
+
+<table      style="width:100%"  class="table table-striped" >
+
+
+  <tbody  >
+
+    <tr *ngFor="let pom of this.products" >
+
+      <td>{{pom.id}}</td>
+      <td  >{{pom.nameOfProduct}}  </td>
+      <td  >{{pom.price}}</td>
+      <td  >
+        {{pom.ingredients}}
+      </td>
+
+
+      <input type="button" value="add" class="btn btn-primary"  (click)="add(pom)">
+    </tr>
+
+
+    <tr>
+      <label>Unesi ID proizvoda:</label> <input type="number" (keyup)="setPayPalProduct($event)">
+      <div id="paypal-checkout-btn"></div>
+    </tr>
+
+    <tr>
+      <td>Quantity</td>
+
+      <td><input  style="width:100%" type="number" value={{order.quantity}} (keyup)="changeQuantity($event)" > </td>
+    </tr>
+    <tr>
+      <td>Comment</td>
+
+      <td><input  style="width:100%" type="text" value={{order.comment}} (keyup)="changeComment($event)" > </td>
+    </tr>
+    <tr>
+      <td>Address</td>
+
+      <td><input  style="width:100%" type="text" value={{order.address}} (keyup)="changeAddress($event)" > </td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<h2  *ngIf="user.type === 'POTROSAC' " >MY ORDERS</h2>
+<table     *ngIf="user.type === 'POTROSAC' "  class="table table-striped"  >
+  <thead>
+    <tr>
+
+      <th scope="col">Name</th>
+      <th scope="col">price</th>
+      <th scope="col">ingredients</th>
+      <th scope="col">comment</th>
+      <th scope="col">address</th>
+      <th scope="col">quantity</th>
+      <th scope="col">price + delivery</th>
+      <th scope="col">status</th>
+      <th scope="col">time of delivery</th>
+    </tr>
+  </thead>
+  <tbody >
+    <tr *ngFor="let pom of this.orders"   >
+     <td  *ngIf="pom.customer === this.order.customer ">{{pom.nameOfProduct}}</td>
+     <td  *ngIf="pom.customer === this.order.customer">{{pom.priceOfProduct}}</td>
+     <td  *ngIf="pom.customer === this.order.customer">{{pom.ingredients}}</td>
+      <td *ngIf="pom.customer === this.order.customer">{{pom.comment}}</td>
+      <td *ngIf="pom.customer === this.order.customer">{{pom.address}}</td>
+      <td *ngIf="pom.customer === this.order.customer">{{pom.quantity}}</td>
+      <td *ngIf="pom.customer === this.order.customer">{{pom.price}}</td>
+      <td *ngIf="pom.customer === this.order.customer  && pom.delivered===true">delivered</td>
+      <td *ngIf="pom.customer === this.order.customer && pom.delivered===false && pom.deliverer ===''"> waiting for pick up </td>
+      <td *ngIf="pom.customer === this.order.customer && pom.delivered===false && pom.deliverer !==''"> transport </td>
+
+      <td   *ngIf="pom.customer === this.order.customer && pom.delivered===false && pom.deliverer !==''" > {{pom.min}} min</td>
+
+
+    </tr>
+  </tbody>
+</table>
+
+<table   *ngIf="user.type === 'DOSTAVLJAC' "  class="table table-striped"  >
+  <thead>
+    <tr>
+      <td colspan="8"><h2>AVAILABLE ORDERS</h2></td>
+    </tr>
+   <tr>
+      <th scope="col">Name</th>
+      <th scope="col">price</th>
+      <th scope="col">ingredients</th>
+      <th scope="col">comment</th>
+      <th scope="col">address</th>
+      <th scope="col">quantity</th>
+      <th scope="col">price + delivery</th>
+      <th scope="col">pick up</th>
+      <th scope="col">time of delivery</th>
+    </tr>
+  </thead>
+
+  <tbody >
+    <tr *ngFor="let pom of this.orders"   >
+     <td  *ngIf="pom.deliverer ==='' ">{{pom.nameOfProduct}}</td>
+     <td  *ngIf="pom.deliverer ===''">{{pom.priceOfProduct}}</td>
+     <td  *ngIf="pom.deliverer ===''">{{pom.ingredients}}</td>
+      <td *ngIf="pom.deliverer ===''">{{pom.comment}}</td>
+      <td *ngIf="pom.deliverer ===''">{{pom.address}}</td>
+      <td *ngIf="pom.deliverer ===''">{{pom.quantity}}</td>
+      <td *ngIf="pom.deliverer ===''">{{pom.price}}</td>
+      <input  *ngIf="pom.deliverer ==='' && this.busyy<1"   type="button" value="pick up" class="btn btn-primary"  (click)="pickUp(pom)">
+      <td *ngIf="pom.deliverer ==='' && this.busyy>0">you are busy</td>
+    </tr>
+
+    <tr>
+      <td colspan="8"><h2>MY ORDERS</h2></td>
+   </tr>
+
+   <tr *ngFor="let pom of this.orders"   >
+        <td  *ngIf="pom.deliverer === user.email">{{pom.nameOfProduct}}</td>
+        <td  *ngIf="pom.deliverer === user.email">{{pom.priceOfProduct}}</td>
+        <td  *ngIf="pom.deliverer === user.email">{{pom.ingredients}}</td>
+         <td *ngIf="pom.deliverer === user.email">{{pom.comment}}</td>
+         <td *ngIf="pom.deliverer === user.email">{{pom.address}}</td>
+         <td *ngIf="pom.deliverer === user.email">{{pom.quantity}}</td>
+         <td *ngIf="pom.deliverer === user.email">{{pom.price}}</td>
+         <td *ngIf="pom.deliverer === user.email && pom.delivered===true">delivered </td>
+         <td *ngIf="pom.deliverer === user.email  && pom.delivered===false">transport </td>
+         <td   *ngIf="pom.deliverer ===  user.email   && pom.delivered===false"> {{pom.min}} min</td>
+      </tr>
+
+
+  </tbody>
+</table>
+
+<div  *ngIf="user.type === 'DOSTAVLJAC' "  class="mapOrders">
+  <h3>AVAILABLE ORDERS ON MAP</h3>
+  <app-map style="margin: 20px;" [pickUp]="pickUp"></app-map>
+</div>
+
+<h2  *ngIf="user.type === 'ADMINISTRATOR' " >ALL ORDERS</h2>
+<table   *ngIf="user.type === 'ADMINISTRATOR' "  class="table table-striped"  >
+  <thead>
+    <tr>
+
+      <th scope="col">Name</th>
+      <th scope="col">price</th>
+      <th scope="col">ingredients</th>
+      <th scope="col">comment</th>
+      <th scope="col">address</th>
+      <th scope="col">quantity</th>
+      <th scope="col">price + delivery</th>
+      <th scope="col">status</th>
+    </tr>
+  </thead>
+  <tbody >
+    <tr *ngFor="let pom of this.orders"   >
+     <td >{{pom.nameOfProduct}}</td>
+     <td >{{pom.priceOfProduct}}</td>
+     <td >{{pom.ingredients}}</td>
+      <td >{{pom.comment}}</td>
+      <td >{{pom.address}}</td>
+      <td>{{pom.quantity}}</td>
+      <td >{{pom.price}}</td>
+      <td *ngIf="pom.delivered === false"  >  it is waiting</td>
+      <td *ngIf="pom.delivered === true"  > delivered</td>
+
+
+
+  </tbody>
+</table>
+

@@ -1,0 +1,481 @@
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.csproj.AssemblyReference.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.AssemblyInfoInputs.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.AssemblyInfo.cs
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.csproj.CoreCompileInputs.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\appsettings.json
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Termin 3.exe
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Termin 3.deps.json
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Termin 3.runtimeconfig.json
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Termin 3.runtimeconfig.dev.json
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Termin 3.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\ref\Termin 3.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Termin 3.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.Manifest.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.xml
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\scopedcss\bundle\Termin 3.styles.css
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.RazorTargetAssemblyInfo.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.csproj.CopyComplete
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\ref\Termin 3.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 6\Termin 6\obj\Debug\net5.0\Termin 3.genruntimeconfig.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\appsettings.json
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.exe
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.deps.json
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.json
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.dev.json
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\ref\Termin 3.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.csproj.AssemblyReference.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfoInputs.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfo.cs
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CoreCompileInputs.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.Manifest.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.xml
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\scopedcss\bundle\Termin 3.styles.css
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.RazorTargetAssemblyInfo.cache
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CopyComplete
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\ref\Termin 3.dll
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.pdb
+C:\Users\Predrag\Desktop\PUSGS\Novi materijali\Termin 3\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\appsettings.json
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.exe
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.deps.json
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.dev.json
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\ref\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.Manifest.cache
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.xml
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\scopedcss\bundle\Termin 3.styles.css
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.RazorTargetAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CopyComplete
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\ref\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\MailKit.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\MimeKit.dll
+C:\Users\BOZO\Desktop\web2\PROJECT\Termin 3\Termin 3\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\appsettings.json
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.exe
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.deps.json
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.dev.json
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\ref\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Termin 3.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\MailKit.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\MimeKit.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.Manifest.cache
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.xml
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\scopedcss\bundle\Termin 3.styles.css
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.RazorTargetAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CopyComplete
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\ref\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT - Copy\Termin 3\Termin 3\obj\Debug\net5.0\Termin 3.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\appsettings.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Termin 3.exe
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Termin 3.deps.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.dev.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\ref\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Termin 3.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\MailKit.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\MimeKit.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.Manifest.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.xml
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\scopedcss\bundle\Termin 3.styles.css
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.RazorTargetAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CopyComplete
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\ref\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2\Backend\Termin 3\obj\Debug\net5.0\Termin 3.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\ref\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\appsettings.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.exe
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.deps.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.dev.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\ref\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\MailKit.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\MimeKit.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.Manifest.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.xml
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\scopedcss\bundle\Termin 3.styles.css
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.RazorTargetAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CopyComplete
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\appsettings.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.exe
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.deps.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.runtimeconfig.dev.json
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\ref\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Termin 3.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\MailKit.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\MimeKit.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.Manifest.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\staticwebassets\Termin 3.StaticWebAssets.xml
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\scopedcss\bundle\Termin 3.styles.css
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.RazorTargetAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.csproj.CopyComplete
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\ref\Termin 3.dll
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.pdb
+C:\Users\BOZO\Desktop\web2\PROJECT WEB2 - Copy - Copy\Backend\Termin 3\obj\Debug\net5.0\Termin 3.genruntimeconfig.cache

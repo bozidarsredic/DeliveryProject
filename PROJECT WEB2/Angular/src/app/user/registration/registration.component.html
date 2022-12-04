@@ -1,0 +1,85 @@
+
+<section class="vh-100 bg-image">
+  <div   class="mask d-flex align-items-center h-100 gradient-custom-3">
+    <div class="container h-100">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+          <div class="card" style="border-radius: 15px;">
+            <div class="card-body p-5">
+              <h2 class="text-uppercase text-center mb-5">Create an account</h2>
+
+              <form [formGroup]="registrationForm">
+
+                <div class="form-group ">
+                  <label>Username</label>
+                  <input class="form-control" formControlName="UserName">
+                </div>
+                <div *ngIf="registrationForm.controls.UserName.invalid">
+                  <p style="color:red;" >Username is required</p>
+
+                </div>
+                 <div class="form-group">
+                  <label>Email</label>
+                  <input class="form-control" formControlName="Email">
+                </div>
+                <div *ngIf="registrationForm.controls.Email.invalid">
+                  <p style="color:red;" >Email is required and must be in good format</p>
+
+                </div>
+
+                <div class="form-group">
+                  <label>Date Of Birth</label>
+                  <input  type="date" class="form-control" formControlName="DateOfBirth">
+                </div>
+                <div *ngIf="registrationForm.controls.DateOfBirth.invalid">
+                  <p style="color:red;" >Date Of Birth is required</p>
+
+                </div>
+                <div class="form-group">
+                  <label>Address</label>
+                  <input class="form-control" formControlName="Addres">
+                </div>
+                <div *ngIf="registrationForm.controls.Addres.invalid">
+                  <p style="color:red;" >Addres is required</p>
+
+                </div>
+
+                <div class="form-group">
+                  <label>Password</label>
+                  <input type="password" class="form-control" formControlName="Password">
+                </div>
+                <div *ngIf="registrationForm.controls.Password.invalid">
+                  <p style="color:red;" >Password is  minimum of 5 characters</p>
+
+                </div>
+                  <div class="form-group ">
+                    <label>Repeat password</label>
+                    <input type="password" class="form-control" formControlName="Password2">
+                  </div>
+
+                  <div *ngIf="registrationForm.controls.Password2.invalid">
+                    <p style="color:red;" >Password is  minimum of 5 characters</p>
+
+                  </div>
+
+                  <label class="form-label" for="customFile">Default file input example</label>
+                  <input type="file" class="form-control" id="customFile"  formControlName="Image" />
+
+
+                <div class="d-flex justify-content-center">
+                  <button type="button"  [disabled]="!registrationForm.valid"
+                     class="btn btn-success btn-block btn-lg gradient-custom-4 text-body  " (click)=onSubmit() >REGISTER</button>
+                </div>
+
+
+
+
+              </form>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
